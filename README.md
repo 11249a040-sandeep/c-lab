@@ -170,7 +170,7 @@ All the above programs demonstrate the implementation of **basic data structures
 
 ---
 
-## 👨‍💻 AUTHOR
+## AUTHOR
 **Name:** Sandeep Kumar Bollavaram  
 **Register Number:** 11249A040  
 **Course:** B.Tech – Computer Science & Engineering  
